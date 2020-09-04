@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "hinqmch5",
+    "projectId": "606gh0hy",
     "dataset": "production"
   },
   "project": {
-    "name": "Midway",
+    "name": "Idlehours Midway",
     "basePath": "/"
   },
   "plugins": [
