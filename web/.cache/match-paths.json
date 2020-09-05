@@ -1,0 +1,10 @@
+[
+    {
+        "path": "/account/",
+        "matchPath": "/account/*"
+    },
+    {
+        "path": "/previews/",
+        "matchPath": "/previews/*"
+    }
+]
