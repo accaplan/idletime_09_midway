@@ -52,6 +52,14 @@ module.exports = {
       }
     },
     {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        typekit: {
+          id: ['aktiv-grotesk']
+        }
+      }
+    },
+    {
       resolve: 'gatsby-source-sanity',
       options: {
         projectId: process.env.SANITY_PROJECT_ID,
