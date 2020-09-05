@@ -1,9 +1,9 @@
 body, html {
-  font-family: 'aktiv Grotesk';
+  font-family: 'PT Mono';
 }
 
 p {
-  font-family: 'aktiv Grotesk';
+  font-family: 'PT Mono';
   line-height: 1.5;
   padding: 1rem 0;
   a {

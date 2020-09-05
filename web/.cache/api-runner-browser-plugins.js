@@ -6,7 +6,7 @@ module.exports = [{
       options: {"plugins":[],"layout":"C:\\Sites\\idlehoursco\\frontend\\version09_midway\\midway\\web\\src\\layouts\\index.tsx"},
     },{
       plugin: require('../node_modules/gatsby-plugin-web-font-loader/gatsby-browser.js'),
-      options: {"plugins":[],"typekit":{"id":["aktiv-grotesk"]}},
+      options: {"plugins":[],"google":{"families":["PT Mono"]}},
     },{
       plugin: require('../gatsby-browser.js'),
       options: {"plugins":[]},

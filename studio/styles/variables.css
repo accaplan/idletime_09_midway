@@ -10,21 +10,21 @@
   --component-text-color: #fff;
   --main-navigation-color: #041893;
 
-  --brand-primary: #041893;
+  --brand-primary: ##FFB361;
   --brand-primary--inverted: #ffffff;
   --brand-secondary: #ffa800;
-  --brand-secondary--inverted: #041893;
+  --brand-secondary--inverted: #56B362;
 
   /* Typography */
-  --font-family-sans-serif: 'Space Mono';
+  --font-family-sans-serif: 'PT Mono';
   --font-size-base: 15px;
   --text-color: var(--brand-primary--inverted);
 
   --header-height: 3.3rem;
 
-  
+
   --default-button-color: var(--brand-primary);
-  
+
   --default-button-color: white;
   --default-button-color--inverted: var(--white);
   --default-button-color--hover: white;

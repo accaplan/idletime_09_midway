@@ -54,8 +54,8 @@ module.exports = {
     {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
-        typekit: {
-          id: ['aktiv-grotesk']
+        google: {
+          families: ['PT Mono']
         }
       }
     },

@@ -13,9 +13,9 @@ export const Header = () => {
     <div className='container--xl mxa p1 outer'>
       <div className='f x jcb aic'>
         <div>
-          <PageLink to='/' className='mr1'>Index</PageLink>
-          <PageLink to='/documentation' className='mr1'>Docs</PageLink>
-          <PageLink to='/collection/all'>Shop All</PageLink>
+          <PageLink to='/' className='mr1'>Home</PageLink>
+          <PageLink to='/documentation' className='mr1'>About</PageLink>
+          <PageLink to='/collection/all'>Shop</PageLink>
         </div>
         <div>
           <a href='/account' className='mr1'>{customerName ? `Hi, ${customerName}` : 'Account'}</a>
