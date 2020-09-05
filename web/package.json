@@ -3,7 +3,7 @@
   "private": true,
   "description": "Boilerplate for Gatsby + Sanity + Shopify",
   "version": "0.1.0",
-  "author": "You <kevin@ctrlaltdel.wprld>",
+  "author": "asuremindcaptain@gmail.com",
   "dependencies": {
     "@picostate/react": "^3.0.1",
     "@sanity/block-content-to-react": "^2.0.7",
@@ -70,6 +70,7 @@
     "@types/node": "^13.11.1",
     "@types/react-helmet": "^5.0.15",
     "@types/react-transition-group": "^4.2.4",
+    "install-peers": "^1.0.3",
     "postcss-calc": "^6.0.2",
     "postcss-cssnext": "^3.1.0",
     "postcss-discard-comments": "^4.0.1",
