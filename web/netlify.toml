@@ -1,7 +1,7 @@
 
 
 [build]
-  command = "gatsby build"
+  command = "gatsby build && netlify-lambda build src/lambda"
   functions = "./functions"
 
 [context.production]
