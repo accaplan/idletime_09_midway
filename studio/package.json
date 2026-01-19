@@ -23,7 +23,7 @@
     "@sanity/core": "^1.149.17",
     "@sanity/default-layout": "^1.149.16",
     "@sanity/default-login": "^1.149.16",
-    "@sanity/desk-tool": "^1.149.16",
+    "@sanity/desk-tool": "^2.36.2",
     "a11y-react-emoji": "^1.1.2",
     "node-emoji": "^1.10.0",
     "prop-types": "^15.7.2",
